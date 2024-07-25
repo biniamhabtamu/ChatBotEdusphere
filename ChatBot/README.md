@@ -4,9 +4,9 @@
 
 ## Installation & Setup
 
-[Install Python] https://www.dataquest.io/blog/installing-python-on-mac/
+[Install Python] https://www.dataquest.io/blog/installing-python-on-window/
 
-[Install pip] https://phoenixnap.com/kb/install-pip-mac
+[Install pip] https://phoenixnap.com/kb/install-pip-window
 
 If you have Python & pip installed then check their version in the terminal or command line tools
 
